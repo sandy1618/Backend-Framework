@@ -4,6 +4,8 @@ Heroku Hosted Demo Application. ```Link down. Site under construction.```
 
 [Pingman.io](https://pingmanio.herokuapp.com/)
 
+Site will be ready by 20.12.2020.
+
 ### Pingman Application
 
 A cryptocurrency ```ticker``` cum ```ping``` application built on a ```Node.js``` backend.
