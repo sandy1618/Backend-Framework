@@ -1,0 +1,76 @@
+﻿<head>
+<body>
+  <hr>
+  <div class="table-responsive">
+    <table class="table">
+      <thead class="thead-dark">
+        <tr>
+          <th scope="col">Market Name</th>
+          <th scope="col">High</th>
+          <th scope="col">Low</th>
+          <th scope="col">Volume</th>
+          <th scope="col">Last</th>
+          <th scope="col">Base Volume</th>
+          <th scope="col">TimeStamp</th>
+          <th scope="col">Bid</th>
+          <th scope="col">Ask</th>
+          <th scope="col">Open Buy Order</th>
+          <th scope="col">Open Sell Order</th>
+          <th scope="col">Previous Day</th>
+          <th scope="col">Created</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% for (var i = 0; i
+        < data.result.length; i++) {%>
+        <tr class="table-success">
+          <td scope="row">
+            <code style="color:blue">
+              <%= data.result[i].MarketName %>
+            </code>
+          </td>
+          <td scope="row">
+            <%= data.result[i].High %>
+          </td>
+          <td scope="row">
+            <%= data.result[i].Low %>
+          </td>
+          <td scope="row">
+            <%= data.result[i].Last %>
+          </td>
+          <td scope="row">
+            <code style="color:green">
+              <%= data.result[i].Volume %>
+            </code>
+          </td>
+          <td scope="row">
+            <%= data.result[i].BaseVolume %>
+          </td>
+          <td scope="row">
+            <code style="color:green">
+              <%= data.result[i].TimeStamp %>
+            </code>
+              </td>
+          <td scope="row">
+            <%= data.result[i].Bid %>
+          </td>
+          <td scope="row">
+            <%= data.result[i].Ask %>
+          </td>
+          <td scope="row">
+            <%= data.result[i].OpenBuyOrders %>
+          </td>
+          <td scope="row">
+            <%= data.result[i].OpenSellOrders %>
+          </td>
+          <td scope="row">
+            <%= data.result[i].PrevDay %>
+          </td>
+          <td scope="row">
+            <%= data.result[i].Created %>
+          </td>
+        </tr>
+        <%}%></tbody>
+    </table>
+  </div>
+</body>
