@@ -27,7 +27,7 @@ Yeah, we're definitely not perfect! Please tell us more about the issue faced.
 **Node.js:**
 
 <!-- Output of `npm -v` -->
-**npm : **
+**npm :**
 
 <!-- e.g. macOS, Windows, Ubuntu -->
 **Platform:**
