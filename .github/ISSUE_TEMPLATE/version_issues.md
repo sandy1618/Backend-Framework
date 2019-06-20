@@ -1,3 +1,11 @@
+---
+name: ⚠️ Version Incompatibility
+about: Create a report to help us improve
+title: ''
+labels: version-issues
+assignees: ''
+---
+
 <!-- DO NOT DELETE 
 validate_template=true
 template_path=.github/ISSUE_TEMPLATE/version_issues.md
