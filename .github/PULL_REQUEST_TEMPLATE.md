@@ -22,7 +22,7 @@ template_path=.github/PULL_REQUEST_TEMPLATE.md
 
 
 ### [Required] Description 
-<!-- What does you code do ? -->
+<!-- What does your code do ? -->
 
 
 ### [Required] Final Comments
