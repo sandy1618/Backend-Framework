@@ -2,7 +2,7 @@
 name: ⚠️ Version Incompatibility
 about: Create a report to help us improve
 title: ''
-labels: version-issues
+labels: help-wanted
 assignees: ''
 ---
 
