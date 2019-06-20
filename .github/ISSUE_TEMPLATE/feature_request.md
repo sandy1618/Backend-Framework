@@ -4,6 +4,7 @@ about: Tell us more about what you need.
 title: ''
 labels: feature
 assignees: ''
+---
 
 <!-- DO NOT DELETE 
 validate_template=true
