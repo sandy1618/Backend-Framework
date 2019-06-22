@@ -1,4 +1,6 @@
-﻿### Demo Site :
+[![Build Status](https://travis-ci.com/TohokuBlockchainGroup/Backend-Framework.svg?branch=master)](https://travis-ci.com/TohokuBlockchainGroup/Backend-Framework)
+
+### Demo Site :
 
 Heroku Hosted Demo Application. ```Link down. Site under construction.```
 
