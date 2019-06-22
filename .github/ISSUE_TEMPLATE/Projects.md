@@ -1,7 +1,7 @@
 ---
-name: ⚠ Project Item
-about: Use it to add a general project item for related project. It will be tracked under Site-Backend Framework Project.
-title: 'Site-Backend Framework Project Item'
+name: 💡 Project Item
+about: Use it to add a general project item for related project. It will be tracked under Projects
+title: '[Project Item]'
 labels: enhancement, help wanted
 assignees: ''
 ---
@@ -9,12 +9,14 @@ assignees: ''
 
 <!-- DO NOT DELETE 
 validate_template=true
-template_path=.github/ISSUE_TEMPLATE/Project_Item_Template.md
+template_path=.github/ISSUE_TEMPLATE/Projects.md
 -->
 
 ### Project Item : 
 
+
 ### Description : 
+
 
 
 ### What is to be done ?
