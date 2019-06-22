@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/TohokuBlockchainGroup/Backend-Framework.svg?branch=master)](https://travis-ci.com/TohokuBlockchainGroup/Backend-Framework)
+[![Build Status](https://travis-ci.com/pingman-io/Backend-Framework.svg?branch=master)](https://travis-ci.com/pingman-io/Backend-Framework)
 
 ### Demo Site :
 
